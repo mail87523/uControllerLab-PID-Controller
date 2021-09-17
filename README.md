@@ -58,7 +58,7 @@ COOLING MANUAL        -> 5
 
 Parameter Offset is offset for sensor reading to calibrate all sensors in system to same refernce point.
 
-Simple and useful for Home Automation Projects.
+Simple and useful devise for of all kinds of Automation Projects.
 
 Feel free to be inspired and make improve of this project, and if you like to support this project feel free to contact me through mail:
 
