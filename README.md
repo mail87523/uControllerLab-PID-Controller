@@ -42,12 +42,19 @@ Parameter Output can set output (0-100%) only in MANUAL MODE (2 or 5). The purpo
 
 PID Controller by default is Automatic Heating Mode with Standard PID algorithm but this can be changed through code to different mode like
 
+
 HEATING AUTO STANDARD -> 0
+
 HEATING AUTO PARALLEL -> 1
+
 HEATING MANUAL        -> 2
+
 COOLING AUTO STANDARD -> 3
+
 COOLING AUTO PARALLEL -> 4
+
 COOLING MANUAL        -> 5
+
 
 Parameter Offset is offset for sensor reading to calibrate all sensors in system to same refernce point.
 
