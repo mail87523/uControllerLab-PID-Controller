@@ -40,7 +40,7 @@ PID control PWM Output by setting Setpoint, Kp,Ki,Kd,Mode,Output,Offset paramete
 
 Parameter Output can set output (0-100%) only in MANUAL MODE (2 or 5). The purpose of this parameter is for commissioning of the system that are being controlled.
 
-PID Controller by default is Automatic Heating Mode with Standard PID algorithm but this can be changed through code to different mode like
+PID Controller by default is Automatic Heating Mode with Standard PID algorithm but this can be changed by choice different mode like:
 
 
 HEATING AUTO STANDARD -> 0
