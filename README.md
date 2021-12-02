@@ -4,7 +4,7 @@ ESP32 Async WebServer WebSocket JSON PID Controller Thermostat
 
 Code is a mix of collected and modified projects from github.
 
-Spetial thanks to Stéphane Calderoni who inspired me with his two projects:
+Big thanks to Stéphane Calderoni who inspired me with his two projects:
 
 https://github.com/m1cr0lab-esp32/remote-control-with-websocket
 
